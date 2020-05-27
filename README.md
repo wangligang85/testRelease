@@ -5,3 +5,4 @@ createFromWebSite
 sta
 commit body 
 just title
+long commit title
